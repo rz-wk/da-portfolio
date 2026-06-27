@@ -8,8 +8,9 @@
 
 | Проект | Описание | Основные навыки |
 |--------|----------|-----------------|
-| Internet Quality Monitoring & Analytics | Автоматизированный мониторинг качества интернет-соединения, ETL, статистический анализ, методика оценки качества сети | Python, Pandas, EDA, Time Series, Statistics, ETL |
+| **[Internet Quality Monitoring & Analytics](https://github.com/rz-wk/internet-quality-monitoring)** | Автоматизированный мониторинг качества интернет-соединения, ETL, статистический анализ, методика оценки качества сети | Python, Pandas, EDA, Time Series, Statistics, ETL |
 | ... | ... | ... |
+
 
 ## Навыки
 
