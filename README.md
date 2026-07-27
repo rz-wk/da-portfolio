@@ -20,8 +20,8 @@
 
 | Проект | Описание | Основные навыки |
 |--------|----------|-----------------|
-| **[Internet Quality Monitoring & Analytics](https://github.com/rz-wk/internet-quality-monitoring)** | Автоматизированный мониторинг качества интернет-соединения, ETL, статистический анализ, методика оценки качества сети | Python, Pandas, EDA, Time Series, Statistics, ETL |
-| ... | ... | ... |
+| **[Internet Quality Monitoring & Analytics](https://github.com/rz-wk/internet-quality-monitoring)** | Автоматизированный мониторинг качества интернет-соединения, ETL, статистический анализ, методика оценки качества сети | Python, Pandas, EDA, Time Series, Feature Engineering, Statistical Analysis, Data Visualization, ETL |
+| **[District Heating Consumption Efficiency Analysis](https://github.com/rz-wk/heat-overconsumption-analysis)** | Оценка перерасхода тепловой энергии по данным ОДПУ: построение нормативной модели теплопотребления, выявление эксплуатационных аномалий, расчет перерасхода и оценка финансового ущерба | Python, Pandas, EDA, Time Series, Feature Engineering, Statistical Analysis, Energy Analytics, Data Visualization, ETL |
 
 
 ## Навыки
@@ -52,3 +52,4 @@
 - SQL
 - SciPy
 - Statsmodels
+…
